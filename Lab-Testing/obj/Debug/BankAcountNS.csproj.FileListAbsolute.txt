@@ -1,0 +1,8 @@
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.exe.config
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.exe
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.pdb
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\obj\Debug\BankAcountNS.csproj.AssemblyReference.cache
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\obj\Debug\BankAcountNS.csproj.SuggestedBindingRedirects.cache
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\obj\Debug\BankAcountNS.csproj.CoreCompileInputs.cache
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.exe
+C:\Users\soria\OneDrive\Documents\OOP2\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.pdb

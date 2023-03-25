@@ -1,0 +1,8 @@
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.exe.config
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.exe
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\bin\Debug\Lab-Testing.pdb
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.csproj.AssemblyReference.cache
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.csproj.CoreCompileInputs.cache
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.exe
+C:\Users\death\source\repos\Lab-Testing\Lab-Testing\obj\Debug\Lab-Testing.pdb
